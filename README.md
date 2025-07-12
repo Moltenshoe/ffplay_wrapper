@@ -1,4 +1,4 @@
-# 🔉 ffplay_wrapper
+# ffplay_wrapper
 
 A lightweight wrapper for `ffplay` using Node.js that allows you to play audio files with custom volume (and effects if desired).  
 Ideal for use in tools, scripts, or **VSCode extensions** where you want `ffplay.exe` to support volume control.
@@ -109,4 +109,8 @@ Credits to FFmpeg team for the original `ffplay`.
 
 ## Inspired By
 
-This was built to support a [Minecraft sound extension](https://github.com/Moltenshoe/minecraft_sounds_vscode) for VSCode 🧱✨
+This was built to support a [Minecraft sound extension](https://github.com/Moltenshoe/minecraft_sounds_vscode) for VSCode
+
+## Author
+
+Kottapalli Trishanth – B.Tech Student at IIIT Naya Raipur
